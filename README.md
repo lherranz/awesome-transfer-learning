@@ -163,6 +163,8 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **RadialGAN**: [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](https://arxiv.org/abs/1802.06403) (2018)
 * **MADA**: [Multi-Adversarial Domain Adaptation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17067/16644) (2018)
 * **MDAN**: [Multiple Source Domain Adaptation with Adversarial Learning](https://arxiv.org/abs/1705.09684) (2018)
+* **Mix and match networks**: [
+Mix and match networks: encoder-decoder alignment for zero-pair image translation](https://arxiv.org/abs/1804.02199) \([blog](http://www.lherranz.org/2018/08/31/mixmatchnets)\) (CVPR 2018)
 
 #### Temporal models (videos)
 
